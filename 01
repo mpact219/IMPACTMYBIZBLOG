@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "itemId": "1234",
+      "dateCreated": "2024-03-18T12:00:00Z",
+      "messageUrl": "https://www.impactmybiz.com/blog/different-vulnerability-scans/",
+      "author": {
+        "displayName": "Managed IT"
+      },
+      "content": {
+        "title": {
+          "content": "What Is UCaaS (Unified Communications as a Service)?"
+        },
+        "body": {
+          "content": "What is UCaas? Learn more about unified communications and how it can help streamline your business communications."
+        }
+      },
+      "attachments": [
+        {
+          "contentType": "image",
+          "url": "https://res.cloudinary.com/dlpitjizv/image/upload/f_auto/v1685725529/impact/20220513_What_Is_Unified_Communications_as_a_Service_U_Caa_S_Update_Hero_77f73e6d88.jpg"
+        }
+      ]
+    }
+  ]
+}
